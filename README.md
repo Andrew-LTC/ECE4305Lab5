@@ -5,3 +5,4 @@
 ![](images/FifoTB1.PNG)
 ![](images/FifoTB2.PNG)
 ![](images/FifoTB3.PNG)
+![](images/FifoTB4.PNG)
